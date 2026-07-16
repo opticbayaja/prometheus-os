@@ -30,17 +30,18 @@ positions = [
         risk_factor="US_EQUITIES",
     ),
     Position(
-        symbol="MGC",
+        symbol="MNQ",
         direction="LONG",
-        risk_dollars=40.00,
-        risk_factor="PRECIOUS_METALS",
+        risk_dollars=50.00,
+        risk_factor="US_EQUITIES",
     ),
     Position(
-        symbol="MCL",
-        direction="SHORT",
-        risk_dollars=30.00,
-        risk_factor="ENERGY",
+        symbol="M2K",
+        direction="LONG",
+        risk_dollars=50.00,
+        risk_factor="US_EQUITIES",
     ),
+
 
 ]
 
